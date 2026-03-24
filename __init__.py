@@ -1,1 +1,1 @@
-from .import multiagent
+from .agents import multiagent
